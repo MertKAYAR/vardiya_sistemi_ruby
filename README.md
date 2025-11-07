@@ -40,7 +40,7 @@ Proje, tek bir temel senaryo ("Başarılı Vardiya Kaydı") üzerinden geliştir
 
 **Yerel Kurulum:**
 
-1.  **Depoyu Klonlayın:** `git clone [DEPO_ADRESİNİZ]`
+1.  **Depoyu Klonlayın:** `git clone https://github.com/MertKAYAR/vardiya_sistemi_ruby.git`
 2.  **Backend'i Başlatın:** ```bash
     cd backend
     rails server -p 3001
