@@ -32,7 +32,7 @@ Proje, tek bir temel senaryo ("Başarılı Vardiya Kaydı") üzerinden geliştir
 | Kanıt Türü | Açıklama | Link / Durum |
 | :--- | :--- | :--- |
 | **Demo Videosu** | Cypress otomasyonunun başarıyla çalıştığına dair video kaydı. | https://youtu.be/wiyDJKtt6M8 |
-| **LinkedIn Paylaşım** | Proje özeti ve etik beyan içeren sosyal medya paylaşımı. | https://www.linkedin.com/posts/mert-kayar-537363356_github-mertkayarvardiyasistemiruby-activity-7392556143937581056-TGaH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFivgTsBeuGiR2ABsNqlJzMWH4wKbr4Tcy4 |
+| **LinkedIn Paylaşım** | Proje özeti ve etik beyan içeren sosyal medya paylaşımı. | [Mert Kayar'ın Linkedin paylaşımı]https://www.linkedin.com/posts/mert-kayar-537363356_github-mertkayarvardiyasistemiruby-activity-7392556143937581056-TGaH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFivgTsBeuGiR2ABsNqlJzMWH4wKbr4Tcy4 |
 
 ---
 
