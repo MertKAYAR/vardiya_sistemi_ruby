@@ -1,8 +1,8 @@
-# ⏳ Vardiya Kayıt Sistemi (Shift Management System)
+#  Vardiya Kayıt Sistemi (Shift Management System)
 
 Bu proje, önceki Full Stack deneyimimiz temel alınarak geliştirilmiş, bir **Çalışan Vardiya Kayıt Sistemi** uygulamasıdır. Proje, Davranış Odaklı Geliştirme (BDD) metodolojisini uçtan uca uygulayarak sistemin hatasız çalıştığını kanıtlamaktadır.
 
-## 🌟 Proje Mimarisi ve Teknoloji Yığını
+##  Proje Mimarisi ve Teknoloji Yığını
 
 | Katman | Teknoloji | Versiyon | Görev |
 | :--- | :--- | :--- | :--- |
@@ -13,11 +13,11 @@ Bu proje, önceki Full Stack deneyimimiz temel alınarak geliştirilmiş, bir **
 
 ---
 
-## 🛡️ Etik Beyan ve Akademik Süreç
+##  Etik Beyan ve Akademik Süreç
 
 Bu proje, akademik gereklilikler ve etik sorumluluklar doğrultusunda hazırlanmıştır. Çalışmamızda Dr. Öğr. Üyesi **Nurettin Şenyer** ve Arş. Gör. **Ömer Durmuş** tarafından belirlenen etik kurallara tam uyum sağlanmıştır.
 
-## 🎯 BDD Geliştirme Süreci (Kırmızıdan Yeşile)
+##  BDD Geliştirme Süreci (Kırmızıdan Yeşile)
 
 Proje, tek bir temel senaryo ("Başarılı Vardiya Kaydı") üzerinden geliştirilmiştir.
 
@@ -27,7 +27,7 @@ Proje, tek bir temel senaryo ("Başarılı Vardiya Kaydı") üzerinden geliştir
 
 ---
 
-## 🔗 Proje Sonuçları ve Kanıtlar
+##  Proje Sonuçları ve Kanıtlar
 
 | Kanıt Türü | Açıklama | Link / Durum |
 | :--- | :--- | :--- |
@@ -36,7 +36,7 @@ Proje, tek bir temel senaryo ("Başarılı Vardiya Kaydı") üzerinden geliştir
 
 ---
 
-## ⚙️ Projeyi Çalıştırma Adımları
+##  Projeyi Çalıştırma Adımları
 
 **Yerel Kurulum:**
 
