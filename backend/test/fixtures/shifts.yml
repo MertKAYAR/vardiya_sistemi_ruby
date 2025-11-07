@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  employee_name: MyString
+  shift_date: 2025-11-07
+  start_time: 2025-11-07 15:51:44
+  end_time: 2025-11-07 15:51:44
+
+two:
+  employee_name: MyString
+  shift_date: 2025-11-07
+  start_time: 2025-11-07 15:51:44
+  end_time: 2025-11-07 15:51:44
